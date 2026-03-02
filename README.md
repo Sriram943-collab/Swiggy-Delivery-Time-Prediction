@@ -1,11 +1,11 @@
 # 📦 Swiggy Delivery Time Prediction
 
 🔹 PROJECT OVERVIEW
-➤ Machine Learning model to predict food delivery time (minutes)
-➤ Helps improve ETA accuracy
-➤ Reduces delivery delays
-➤ Improves customer satisfaction
-➤ Target Variable → Time_taken
+## ➤ Machine Learning model to predict food delivery time (minutes)
+## ➤ Helps improve ETA accuracy
+## ➤ Reduces delivery delays
+## ➤ Improves customer satisfaction
+## ➤ Target Variable → Time_taken
 
 ------------------------------------------------------------
 
